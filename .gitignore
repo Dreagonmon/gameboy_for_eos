@@ -1,0 +1,4 @@
+build
+rootfs
+.venv
+.vscode/settings.json
